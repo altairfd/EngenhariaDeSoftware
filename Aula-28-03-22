@@ -1,0 +1,35 @@
+Identificação de requisitos:
+
+Requisitos Funcionais – o que o sistema deve fazer;
+Requisitos Não Funcionais – características que o sistema deve
+possuir e que estão relacionadas com as funcionalidades.
+
+O que é um requisito?
+
+ Um requisito é uma característica do sistema ou a
+descrição de algo que o sistema é capaz de realizar, para
+atingir os seus objetivos.
+
+-------------------------------------------
+
+“Dividir para conquistar”
+Uma maneira de realizar a análise do problema é
+identificar as pessoas, os processos e recursos que estão
+envolvidos e então, documentar as relações entre eles
+
+\Os requisitos identificam “o que” o sistema deve
+fazer, e o projeto identifica “como”.
+
+Existe um documento chamado de “Definição dos
+requisitos” que é uma listagem completa de tudo
+que o cliente espera que o sistema proposto faça.
+
+------------------------------
+
+"Especificação dos Requisitos"
+
+ Outro documento é a “Especificação dos requisitos”
+define termos técnicos apropriados para o
+desenvolvimento do projeto do sistema.
+
+
